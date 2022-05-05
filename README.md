@@ -1,5 +1,7 @@
 # Service-Defuser
 Removes Unneccessary Windows Services For Better Performance/Privacy
+This will decrease RAM usage on your system and will allow other apps to use the free RAM for better performance when gaming or doing something else. This is good for PCs with 8GB of RAM and below.
+
 
 Services That it Will Remove
 
